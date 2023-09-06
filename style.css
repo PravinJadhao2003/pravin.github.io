@@ -783,7 +783,7 @@ margin-bottom: 5px;
   .cert-body .first {
     flex-basis: calc(50% - 4rem); /* Adjust the width with gap */
     min-width: 300px; /* Minimum width to ensure readability */
-    background-color: #9bf4a8;
+    background-color: #b5ddf8;
     border-radius: 20px;
     display: flex;
     max-width: 900px;
